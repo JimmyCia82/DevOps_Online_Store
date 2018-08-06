@@ -79,7 +79,7 @@
 
             <div class="content">
                 <div class="title m-b-md">
-                    Laravel Jim Test Git Ke dua
+                    Laravel Jim Test Git Ke tiga
                 </div>
 
                 <div class="links">
